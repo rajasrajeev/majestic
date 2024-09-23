@@ -2930,7 +2930,7 @@ Google map
 /*# sourceMappingURL=style.css.map */
 .whatsapp {
   position: fixed;
-  bottom: 20px; /* Distance from the bottom */
+  bottom: 50px; /* Distance from the bottom */
   right: 20px; /* Distance from the right */
   z-index: 1000; /* Ensures it stays on top of other elements */
 }
